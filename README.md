@@ -1,5 +1,5 @@
 # UIwithjavafx
-A User Interface with a scrolldown menu and a text area \n
+A User Interface with a scrolldown menu and a text area <br />
 menu has 4 options: \n
 Option 1: display the current date and time on the UI \n
 Option 2: write the content of the text area to a text file \n
